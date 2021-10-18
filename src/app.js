@@ -16,7 +16,7 @@ console.log(dolarDun);
 let konutKredileri = [
   "Konut kredisi",
   "Emlak Konut Kredisi",
-  "Kamu Konut Kredisi",
+  "Kamu Konut Kredisi a",
 ];
 
 console.log("<ul>");
